@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Data Science projects
 - 📫 You can reach me on tyodunlami@gmail.com
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I love real estate development
 
 <!---
 Tyn04/Tyn04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
