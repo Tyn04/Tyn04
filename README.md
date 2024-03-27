@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @OmotayoOdunlami
-- 👀 I’m interested in Data Analysis, Data Science and Machine Learning 
+- 👀 I’m interested in Data Analysis, Data Science, Machine Learning and an AI enthutiast
 - 🌱 I’m Experienced using SQL, Python, Power BI, Tableau, Goggle queries, Excel and SPSS
 - 💞️ I’m looking to collaborate on Data Science projects
 - 📫 You can reach me on tyodunlami@gmail.com
